@@ -230,7 +230,7 @@ For configuring email notifications and two-factor authentication (2FA), follow 
 
 7. Click on "Generate" and copy the generated password.
 
-8. Paste this generated password in `converter/manifest/secret.yaml` along with your email.
+8. Paste this generated password in `notification-service/manifest/secret.yaml` along with your email.
 
 Run the application through the following API calls:
 
